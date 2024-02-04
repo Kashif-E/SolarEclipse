@@ -1,6 +1,6 @@
 # Compose Multiplatform Application
 
-[![Demo Solar Eclipse]()](https://github.com/Kashif-E/SolarEclipse/blob/master/art/demo.MP4)
+<a href="Solar Eclipse Demo">![Solar eclipse](art/demo.MP4)</a>
 
 
 ## Before running!
