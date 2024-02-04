@@ -1,23 +1,13 @@
-# Compose Multiplatform Application
+## Solar Eclipse Parallax Effect with Compose Multiplatform
+ ### This project showcases the creation of an immersive parallax effect that simulates a solar eclipse, built using Compose Multiplatform and leveraging sensor data from the accelerometer and magnetometer. It demonstrates how to dynamically adjust the rendering of foreground and background canvases in response to the device's orientation, enhancing the user experience with a visually engaging solar eclipse simulation.
 
-<a href="Solar Eclipse Demo">![Solar eclipse](https://youtube.com/shorts/S7KxZi68iuY?si=jvk_B1qTo6sT1nw_)</a>
+##Key Features
+- Responsive Solar Eclipse Simulation: Utilizes real-time sensor data to adjust the visual elements of the application, creating a captivating solar eclipse effect.
+- Efficient Sensor Data Management: Incorporates a custom SensorDataManager class designed for optimal handling of sensor data across platforms.
+- Advanced Compose Multiplatform Techniques: Employs sophisticated Compose Multiplatform features for animations, state management, and the implementation of custom modifiers to achieve stunning visual effects. 
+- Cross-Platform Sensor Integration: Leverages Kotlin Multiplatform's expect-actual pattern to seamlessly integrate platform-specific sensor data, ensuring a uniform experience across different devices and platforms.
+
+[![Solar Eclipse](https://img.youtube.com/vi/jvk_B1qTo6sT1nw_/0.jpg)](https://www.youtube.com/watch?v=jvk_B1qTo6sT1nw_)
 
 
-## Before running!
- - check your system with [KDoctor](https://github.com/Kotlin/kdoctor)
- - install JDK 17 on your machine
- - add `local.properties` file to the project root and set a path to Android SDK there
-
-### Android
-To run the application on android device/emulator:  
- - open project in Android Studio and run imported android run configuration
-
-To build the application bundle:
- - run `./gradlew :composeApp:assembleDebug`
- - find `.apk` file in `composeApp/build/outputs/apk/debug/composeApp-debug.apk`
-
-### iOS
-To run the application on iPhone device/simulator:
- - Open `iosApp/iosApp.xcproject` in Xcode and run standard configuration
- - Or use [Kotlin Multiplatform Mobile plugin](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform-mobile) for Android Studio
-
+#
