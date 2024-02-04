@@ -1,6 +1,6 @@
 # Compose Multiplatform Application
 
-<a href="Solar Eclipse Demo">![Solar eclipse](art/demo.MP4)</a>
+<a href="Solar Eclipse Demo">![Solar eclipse](https://youtube.com/shorts/S7KxZi68iuY?si=jvk_B1qTo6sT1nw_)</a>
 
 
 ## Before running!
