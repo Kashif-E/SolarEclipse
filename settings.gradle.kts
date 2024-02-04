@@ -1,4 +1,4 @@
-rootProject.name = "Parallax-Effect"
+rootProject.name = "SolarEclipse"
 include(":composeApp")
 
 pluginManagement {
