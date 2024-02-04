@@ -8,7 +8,6 @@ This project showcases the creation of an immersive parallax effect that simulat
 - Advanced Compose Multiplatform Techniques: Employs sophisticated Compose Multiplatform features for animations, state management, and the implementation of custom modifiers to achieve stunning visual effects. 
 - Cross-Platform Sensor Integration: Leverages Kotlin Multiplatform's expect-actual pattern to seamlessly integrate platform-specific sensor data, ensuring a uniform experience across different devices and platforms.
 
-[![Solar Eclipse](https://i3.ytimg.com/vi/shorts/S7KxZi68iuY?si=jvk_B1qTo6sT1nw_/maxresdefault.jpg)](https://youtube.com/shorts/S7KxZi68iuY?si=jvk_B1qTo6sT1nw_)
+[![Video](https://img.youtube.com/vi/S7KxZi68iuY/maxresdefault.jpg)](https://www.youtube.com/watch?v=S7KxZi68iuY)
 
 
-#
