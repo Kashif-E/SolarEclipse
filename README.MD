@@ -1,5 +1,7 @@
 # Compose Multiplatform Application
 
+https://github.com/Kashif-E/SolarEclipse/blob/master/art/demo.MP4
+
 ## Before running!
  - check your system with [KDoctor](https://github.com/Kotlin/kdoctor)
  - install JDK 17 on your machine
